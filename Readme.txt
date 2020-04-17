@@ -1,5 +1,3 @@
-Ссылка на репозиторий: https://github.com/Ruslan4974/ruslan18rus
-
 docker pull ubuntu:latest
 
 docker pull postgres:latest
