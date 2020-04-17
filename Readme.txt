@@ -18,7 +18,7 @@ services :
       - "5432:5432"
     environment:
       POSTGRES_USER: user1
-      POSTGRES_PASSWORD: changeme
+      POSTGRES_PASSWORD: password
       POSTGRES_DB: tododb
   admin:
     image: adminer
